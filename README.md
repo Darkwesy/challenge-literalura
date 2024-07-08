@@ -1,6 +1,10 @@
-# Challange Literalura
+<h1 style="text-align: center">Challange Literalura</h1>
 
 Projeto de busca e registro de livros através da api [Gutendex](https://gutendex.com), projeto este fornecido no Challange da formação ONE da Oracle em parceria com a Alura.
+
+<p style="text-align: center"><img src="./badge_literalura.png" style="width: 200px"></p>
+<p style="text-align: center">Mais um desafio pra conta papai!</p>
+
 
 ## Funcionaidades
 
